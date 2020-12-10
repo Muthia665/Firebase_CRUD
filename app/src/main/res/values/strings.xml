@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Firebase CRUD</string>
+    <string name="firebase_crud">Firebase CRUD</string>
+    <string name="tambah_barang">Tambah Barang</string>
+    <string name="nama_barang">Nama Barang</string>
+    <string name="merk_barang">Merk Barang</string>
+    <string name="harga_barang">Harga Barang</string>
+</resources>
